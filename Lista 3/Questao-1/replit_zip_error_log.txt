@@ -1,0 +1,2 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/dotnet-7.0:v10-20240429-0325cbb","time":"2024-05-06T20:36:03Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit:v9-20240429-0325cbb","time":"2024-05-06T20:36:03Z"}
